@@ -1,5 +1,9 @@
 <h1 align="center">❤️ 🅆🄰🅁🅄🅂🄴🅁🄱🄾🅃 ❤️</h1>
 
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/onenonlybotz/waruserbot&branch=main&name=aadityaub)
+
+
 <p align="center">
   <img src="https://telegra.ph/file/4b0a3d49d8bf1e2e85fea.png">
 </p>
